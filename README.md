@@ -1,4 +1,4 @@
-# JetBrains IDE Settings
+# IntelliJ Settings
 
 ## Creating JAR
 
