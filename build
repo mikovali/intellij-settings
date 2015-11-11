@@ -1,0 +1,4 @@
+#!/bin/sh
+
+rm -rf settings.jar
+jar cMf settings.jar -C config .
