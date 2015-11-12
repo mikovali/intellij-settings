@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject version="4">
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <ConfirmationsSetting value="1" id="Add" />
+        <ConfirmationsSetting value="1" id="Remove" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
